@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bartłomiej Klimowski</title>
+    <link>http://localhost:4321/</link>
+    <description>Recent content on Bartłomiej Klimowski</description>
+    <generator>Hugo 0.125.1</generator>
+    <language>en-us</language>
+    <copyright>You</copyright>
+    <lastBuildDate>Wed, 24 Aug 2016 17:51:42 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>http://localhost:4321/about/</link>
+      <pubDate>Wed, 24 Aug 2016 17:51:42 +0000</pubDate>
+      <guid>http://localhost:4321/about/</guid>
+      <description>Current Projects System-Level Beaurocrats Discretionality Spatial Theory of Voting Applied to Polish Parlament Votings Evolution of Law System Complexity </description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:4321/courses/</link>
+      <pubDate>Wed, 24 Aug 2016 17:51:42 +0000</pubDate>
+      <guid>http://localhost:4321/courses/</guid>
+      <description>Courses Materials </description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:4321/projects/</link>
+      <pubDate>Wed, 24 Aug 2016 17:51:42 +0000</pubDate>
+      <guid>http://localhost:4321/projects/</guid>
+      <description>Current Projects System-Level Beaurocrats Discretionality Spatial Theory of Voting Applied to Polish Parlament Votings Evolution of Law System Complexity </description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:4321/publications/</link>
+      <pubDate>Wed, 24 Aug 2016 17:51:42 +0000</pubDate>
+      <guid>http://localhost:4321/publications/</guid>
+      <description>Publications Published -&#xA;Accepted -&#xA;In preparation </description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:4321/varia/</link>
+      <pubDate>Wed, 24 Aug 2016 17:51:42 +0000</pubDate>
+      <guid>http://localhost:4321/varia/</guid>
+      <description>Various Things Guides Social Scientist Guide to Learning Data Analytics (2024 edition) Apps Fractionalization Measures Exploration Polish Parlament Sentiment Talks Presentations Sensitivity Analysis (in Polish) Fractionalization Measures (in Polish) </description>
+    </item>
+  </channel>
+</rss>
